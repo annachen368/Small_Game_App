@@ -1,3 +1,3 @@
 # Small_Game
 
-<img src="http://i.imgur.com/zZ1TJVK.gif" />
+<img src="https://github.com/annachen368/Small_Game/blob/master/HpIIsLM.gif" />
