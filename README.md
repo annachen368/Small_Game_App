@@ -1,7 +1,4 @@
 # Small_Game
 
 
-## Tic Tac Toe
-
-<img src="http://i.imgur.com/HpIIsLM.gif" title="source: imgur.com" />
-
+<a href="http://imgur.com/HpIIsLM"><img src="http://i.imgur.com/HpIIsLMs.gif" title="source: imgur.com" /></a>
