@@ -1,3 +1,3 @@
 # Small_Game
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/m9jm8Uz2vGI" frameborder="0" allowfullscreen></iframe>
+<img src="http://i.giphy.com/l2QZZte9Axu1Tk1lS.gif" title="source: imgur.com" />
