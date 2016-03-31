@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                 }
             }
-            imageView.animate().translationY(0f).rotation(360f).setDuration(700);
+            imageView.animate().translationY(0f).rotationBy(360f).setDuration(700);
 
             player = (player == 1)?2:1;
         }else {
